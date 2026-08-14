@@ -2,63 +2,55 @@
 
 ### AI Engineer · Senior AI Engineer · Full-Stack / Backend Engineer
 
-Building production-oriented AI systems, agentic applications, scalable APIs, and data-driven products.
+Building production AI systems, agentic applications, scalable APIs, and data-driven products.
 
 ---
 
 ## Engineering Focus
 
 **AI Engineering**  
-LLMs · Agentic AI · RAG · Evaluations · AI Observability · Intelligent Automation
+LLMs · Agentic AI · RAG · Evaluations · AI Observability
 
 **Backend Engineering**  
-Node.js · Python · REST APIs · PostgreSQL · SQL · Authentication · API Architecture
+Python · Node.js · REST APIs · PostgreSQL · SQL · Authentication
 
 **Cloud & Production**  
-AWS · GitHub Actions · CI/CD · Monitoring · Production Reliability
-
-**Full-Stack Engineering**  
-TypeScript · JavaScript · Modern Web Applications · API-Driven Frontends
+AWS · CI/CD · GitHub Actions · Monitoring · Production Reliability
 
 ---
 
 ## Featured Engineering Work
 
 ### TechBeetle
-AI-powered technology media and content platform with production APIs, PostgreSQL-backed services, cloud infrastructure, and AI-assisted content workflows.
+AI-powered technology media platform with backend APIs, PostgreSQL, AWS infrastructure, and AI-assisted content workflows.
 
 `Node.js` `PostgreSQL` `OpenAI` `AWS` `REST APIs`
 
 ### CreditClarity
-Financial intelligence platform focused on modern application architecture, backend services, structured data, and production engineering.
+Financial intelligence platform built around modern backend services, structured data, and production-oriented application architecture.
 
-`TypeScript` `Backend APIs` `PostgreSQL` `Cloud`
+`TypeScript` `APIs` `PostgreSQL` `Cloud`
 
 ### Agentic Data Quality
-Exploring autonomous data-quality and governance systems using AI agents, data-quality scoring, human-in-the-loop workflows, observability, and intelligent recommendations.
+AI-driven data-quality and governance platform exploring autonomous rule recommendations, scoring, observability, human-in-the-loop workflows, and compliance processes.
 
 `Python` `LLMs` `AI Agents` `Data Quality` `Governance`
 
 ---
 
-## Current Focus
+## Core Stack
 
-- Production-grade AI agents
-- LLM evaluation and observability
-- RAG and knowledge systems
-- AI-assisted data platforms
-- Scalable backend architecture
-- Production AI deployment
+`Python` · `TypeScript` · `JavaScript` · `Node.js` · `PostgreSQL` · `SQL` · `AWS` · `OpenAI` · `REST APIs`
 
 ---
 
-## Core Stack
+## Current Focus
 
-`Python` · `TypeScript` · `JavaScript` · `Node.js` · `PostgreSQL` · `SQL` · `AWS` · `OpenAI` · `REST APIs` · `GitHub Actions`
+Agentic AI · LLM Evaluation · RAG · AI Observability · Backend Architecture · Production AI
 
 ---
 
 ## Connect
 
-**Portfolio:** sriranga.dev  
-**GitHub:** @ranga2002
+**Portfolio:** [sriranga.dev](https://sriranga.dev)  
+**LinkedIn:** [Sri Ranga Bharadwaj](https://linkedin.com/in/srirangabharadwaj)
